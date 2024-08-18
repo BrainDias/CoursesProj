@@ -13,6 +13,7 @@ The student enrolls in one or more courses, registration data is stored. At the 
 For the teacher:
 
 - viewing and editing an e-journal for assigned courses.
+
 The system administrator has the rights:
 
 - registration of the teacher and assignment of the courseDTO to him;
