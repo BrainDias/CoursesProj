@@ -10,6 +10,7 @@ The student enrolls in one or more courses, registration data is stored. At the 
 - a list of courses for which the student has registered but which have not yet begun;
 - a list of courses for which the student has registered and which are in progress;
 - a list of completed courses with information about grades;
+
 For the teacher:
 
 - viewing and editing an e-journal for assigned courses.
