@@ -4,6 +4,7 @@ Elective There is a list of courses divided into topics. One teacher is assigned
 - sort courses by name (az, za), duration, number of students enrolled in the courseDTO;
 - a selection of courses related to a specific topic;
 - a selection of the teacher courses.
+
 The student enrolls in one or more courses, registration data is stored. At the end of the courseDTO the teacher gives the student a grade, which is stored in the journal. Each userDTO has a personal account, which displays brief information about the userDTO, as well as for the student:
 
 - a list of courses for which the student has registered but which have not yet begun;
